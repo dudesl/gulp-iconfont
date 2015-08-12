@@ -44,7 +44,6 @@
     "gulp-svgicons2svgfont": "2.3.1",
     "gulp-ttf2eot": "1.1.0",
     "gulp-ttf2woff": "1.1.0",
-    "gulp-ttf2woff2": "^1.0.0",
     "gulp-util": "~3.0.6",
     "plexer": "0.0.3",
     "streamfilter": "^1.0.1"
